@@ -5,6 +5,8 @@
 -------Where every Vibe finds its Tribe
 
 Vibenet is a Python-based, command-line social media hub that allows users ("Vibers") to post thoughts, react, comment, earn badges, join tribes, and explore trending content. This project demonstrates a fully functional social platform backend with a menu-driven CLI interface, ideal for learning, experimentation, and gamified social networking.
+<img width="1242" height="695" alt="tavles created" src="https://github.com/user-attachments/assets/a6d99a08-e67b-44a1-8f2b-974c162c1800" />
+
 
 🚀 Features
 
